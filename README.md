@@ -9,11 +9,8 @@ A complete full-stack e-commerce web application built with Node.js, Express, Mo
 - [About the Project](#about-the-project)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
 - [Environment Variables](#environment-variables)
 - [API Documentation](#api-documentation)
-- [Screenshots](#screenshots)
 - [Future Improvements](#future-improvements)
 
 ---
